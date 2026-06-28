@@ -5,6 +5,7 @@
 The Weather AI Agent is a Python-based intelligent assistant that provides real-time weather information using the OpenRouter API and the Open-Meteo weather service. The application is designed to answer only weather-related queries by using AI function calling and live weather data retrieval instead of generating estimated responses.
 
 The project demonstrates the implementation of AI agents, tool calling, prompt engineering, conversation memory, and REST API integration in Python.
+<img width="1057" height="636" alt="image" src="https://github.com/user-attachments/assets/f4aed49a-ad7f-419a-91aa-e071530e02b4" />
 
 ---
 
